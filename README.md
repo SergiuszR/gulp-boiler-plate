@@ -1,8 +1,6 @@
-
 # Gulp Boiler Plate
 
 This repo contains a basic boiler plate for gulp.js
-
 
 ## Features
 
@@ -12,29 +10,25 @@ This repo contains a basic boiler plate for gulp.js
 - Minify `images` files in your `src/img` folder & output to `dist/img`
 - Watch for changes in `src` folder and update `dist` folder accordingly
 
-  
 ## Additional
 
 You need to have `npm` installed on your machine
+You need to install some CSS preprocessor in your IDE i.e. `live-sass-compiler`
 
-  
-## Installation 
+## Installation
 
-* Clone this repository to your local environment
+- Clone this repository to your local environment
 
 ```
 $ gh repo clone SergiuszR/gulp-boiler-plate
 
 $ cd gulp-boiler-plate
 $ npm install
-$ code . 
+$ code .
 ```
 
-* In your IDE terminal type 
-```gulp```
+- In your IDE terminal type
+  `gulp`
 
-And that's it! 
+And that's it!
 If you want, you can adjust your directories tree in `gulpfile.js`
-
-
-    
