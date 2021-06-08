@@ -12,8 +12,8 @@ This repo contains a basic boiler plate for gulp.js
 
 ## Additional
 
-You need to have `npm` installed on your machine
-You need to install some CSS preprocessor in your IDE i.e. `live-sass-compiler`
+- You need to have `npm` installed on your machine.
+- You need to install some CSS preprocessor in your IDE i.e. `live-sass-compiler`
 
 ## Installation
 
